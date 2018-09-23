@@ -1,0 +1,81 @@
+baseURL = "https://austinsmart.com/"
+languageCode = "en-us"
+title = "Austin Smart"
+
+theme = "coder"
+
+languagecode = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[params]
+    author = "Austin Smart"
+    description = "Austin Smart's personal website"
+    keywords = "developer,personal"
+    info = "Systems Engineer & Cloud Architect"
+    avatarurl = "images/avatar.jpeg"
+    footercontent = "Stay Curious!"
+
+    dateformat = "January 2, 2006"
+
+    hideCredits = true
+    hideCopyright = true
+
+    rtl = false
+
+    # Custom CSS
+    custom_css = []
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/austinsmart/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/AustinSmart/"
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram"
+    weight = 5
+    url = "https://instagram.com/austinsmart"
+
+
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about"
+[[menu.main]]
+    name = "Contact me"
+    weight = 5
+    url = "/contact"
+
+[languages]
+    [languages.en]
+        languagename = "English"
+        title = "Austin Smart"
+
+        [languages.en.params]
+        author = "Austin Smart"
+        description = "Austin Smart's personal website"
+        keywords = "developer,personal"
+        info = "Systems Engineer & Cloud Architect"
+
+        [languages.en.menu]
+
+        [[languages.en.menu.main]]
+        name = "About"
+        weight = 1.0
+        url = "/about"
+        [[languages.en.menu.main]]
+        name = "Contact me"
+        weight = 5
+        url = "/contact"
