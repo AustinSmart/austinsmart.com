@@ -5,4 +5,4 @@ draft: false
 
 Hi! Thanks for stopping by
 
-My name is Austin, I'm a recent graduate from the University of Washington. Currently I am working in the Seattle area for Starbucks as a Systems Engineer & Cloud Architect.
+My name is Austin. Currently I am working in the Seattle area for Starbucks as a Systems Engineer with a focus on Cloud Technologies.

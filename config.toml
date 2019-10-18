@@ -18,7 +18,7 @@ pygmentscodefencesguesssyntax = true
     author = "Austin Smart"
     description = "Austin Smart's personal website"
     keywords = "developer,personal"
-    info = "Systems Engineer & Cloud Architect"
+    info = "Systems Engineer with a focus on Cloud Technologies"
     avatarurl = "images/avatar.jpeg"
     footercontent = "Stay Curious!"
 
@@ -67,7 +67,7 @@ pygmentscodefencesguesssyntax = true
         author = "Austin Smart"
         description = "Austin Smart's personal website"
         keywords = "developer,personal"
-        info = "Systems Engineer & Cloud Architect"
+        info = "Systems Engineer with a focus on Cloud Technologies"
 
         [languages.en.menu]
 
